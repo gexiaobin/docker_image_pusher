@@ -1,5 +1,5 @@
 nginx
 rustdesk/rustdesk-server
-portainer
+portainer/portainer-ce
 mysql
 
